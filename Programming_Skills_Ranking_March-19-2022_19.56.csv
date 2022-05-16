@@ -1,0 +1,251 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q1,Q2,Q5,Q7,Q8,Q9,Q10,Q11,Q12,Q13,Q14,Q15,Q1-Parsing,Q2-Parsing,Q1 - Parent Topics,Q1 - Topics,Q2 - Parent Topics,Q2 - Topics
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"What knowledge, skills, or characteristics should new hires in programming positions possess?  (please be detailed)",What experiences are helpful to develop into a good programmer? (please be detailed),Where do you spend most of your coding time (check all that apply)?,How involved are you with hiring?,How many interviews have you been involved in in the last year?,How involved are you with training/mentoring new hires?,What languages do you spend the most time in (select all that apply)?,"If you spend most of your time in another language(s), list here?",How much of your current job involves coding?,How would your rank your skill level?,"In 1-2 sentences, explain why you chose this ranking.",How many years have you been this skill level?,Q1-Parsing,Q2-Parsing,Q1 - Parent Topics,Q1 - Topics,Q2 - Parent Topics,Q2 - Topics
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1_TEXT""}","{""ImportId"":""QID4_TEXT""}","{""ImportId"":""QID5""}","{""ImportId"":""QID7""}","{""ImportId"":""QID8""}","{""ImportId"":""QID9""}","{""ImportId"":""QID11""}","{""ImportId"":""QID12_TEXT""}","{""ImportId"":""QID10""}","{""ImportId"":""QID14""}","{""ImportId"":""QID15_TEXT""}","{""ImportId"":""QID13""}","{""ImportId"":""Q1-Par_CED1s7utfk""}","{""ImportId"":""Q2-Par_CEDyb2dxvi""}","{""ImportId"":""QID1_TEXT_ff114762e6b14595b6693838ParTopics""}","{""ImportId"":""QID1_TEXT_ff114762e6b14595b6693838Topics""}","{""ImportId"":""QID4_TEXT_ff114762e6b14595b6693838ParTopics""}","{""ImportId"":""QID4_TEXT_ff114762e6b14595b6693838Topics""}"
+2021-11-29 10:42:50,2021-11-29 23:33:20,IP Address,88.113.213.94,100,46230,True,2021-11-29 23:33:20,R_sO21Tg4Rglwv6a5,Balbi,Felipe,Felipe.Balbi@microsoft.com,,60.173095703125,24.66650390625,email,EN,"Curiosity is definitely very welcome. Being ""brave"" and not shying away from challenges is also a key skill, I guess we can summarize this one as ""not knowing something is never a blocker"".
+
+Experience, even if light, with the three main programming paradigms (imperative, object oriented, functional) is definitely very welcome as it helps us approach problems through different lenses. Of course, this implies having experience with different languages (in most cases) as it's hard for a single language to properly support all three paradigms. To that end, my top three choices would be C (imperative), Ruby (object oriented), and Haskell (functional).
+
+Creativity is very important. While programming is a science, there's quite a bit of art involved too. Sometimes flipping a problem around may make it easier to solve.","Experience with several layers of the stack, from hardware (VHDL/Verilog) all the way to highest levels of SW (web development).Granted, only one, maybe two will develop all the way to an expert level over the years, but being able to understand the different layers of the stack enables one to communicate with different teams more naturally.","Computer Engineer,Computer Science",Occasional interviewer (hiring team),3-4,Mentor new hires,"C,C++,Python","Haskell, lisp/scheme, Rust",51-75%,Expert,,>10,"S-Curious,K-Imperative Programming,K-Writing programs,K-Operating systems,S-Communication,S-Problem solving,K-Object oriented programming,S-Creative and innovative,K-Mutiple languages",,,,,
+2021-12-01 11:07:01,2021-12-06 00:32:21,IP Address,167.220.205.42,100,393920,True,2021-12-06 00:32:21,R_cHEEk57Eqe29KFP,Slassi,Matan,matan.slassi@microsoft.com,,32.1678924560546875,34.8339996337890625,email,EN,"characteristics and skills 
+---------------------------------
+auto deduct and independent - someone that can take task, understand what he/she does know know and use learning resources to address the knowledge gaps.
+
+Passion to technology - when someone arrives with right attitude then every obstacle looks relatively easy. when someone arrives without the passion (in our case passion to devices, working with HW) then every small barrier will feel like wall (for example, setup is not stable). 
+
+knowledge -  in embedded it's better to have someone with at least basics in C or C++. Advantage is python but not mandatory. Expectations are higher based on experience - interns or seniors. For interns we will look on passion to technology and projects on University or private projects that can imply on technology passion (gadgets for example) and for seniors / Mid-Juniors the experience is more important, understanding architecture","1. understanding the big picture - understand the interfaces of your device, the architecture data flows in the system. This makes it easier to understand your current task focus and where it combines as part of entire device
+
+2. Expertise in debugging - good programmer knows the tools he has to identify problem and increase his toolset (from Spi logs, UART, telemetry, CSV data, logs from factory of self host) - the best programmers are those that identify problems easily ","Computer Engineer,Computer Science,Software Engineer",Hiring manager,1-2,Manage new hires,"C,C++,Python",,0-10%,Expert,,>10,"S-Problem solving,S-Passionate,K-Knowledge and understanding,K-Single language,K-How computers work,S-Big picture,K-Testing and debugging,S-Lifelong learning,K-Scripting language",,,,,
+2021-12-03 13:36:58,2021-12-06 08:06:46,IP Address,85.250.112.124,100,239388,True,2021-12-06 08:06:46,R_3qmUQ3uaBzHbq7v,Menashof,Roei,romenash@microsoft.com,,31.96319580078125,34.8040008544921875,email,EN,"• Problem-solving - programmers are expected to use code to solve problems. A programmer's ability to recognize a problem, comprehend it, define a path to a solution, and implement it is required. 
+• Concepts of programming languages - The programming language is our primary tool. Developers must understand how to work with it, what its limitations are, and which languages are best suited for various tasks. 
+• Communication skills - programmers spent a lot of time talking to users, team members, the product, and other people. To be successful, you must have excellent communication skills.
+• Passion for learning - Because the field of programming is constantly evolving, continuing to learn is critical, and having a passion for learning will keep you as a programmer up to date on the latest developments and solutions that can help you build better products.","Coding, coding, and more coding - programmers write code above all else, and the best way to gain code experience is to code as much as possible on a variety of platforms and with a wide range of technologies.","Computer Science,Software Engineer",Hiring manager,1-2,Manage new hires,"C#,C++,Python",,0-10%,Expert,,5-10,"S-Problem solving,K-Fundamentals of programming,K-Mutiple languages,S-Communication,K-Writing programs,S-Lifelong learning",,,,,
+2021-12-21 20:47:21,2021-12-21 22:12:26,IP Address,167.220.255.112,100,5104,True,2021-12-21 22:12:26,R_22VVGqYV0gxN3JA,Yang,Will,will.yang@microsoft.com,,1.3036041259765625,103.85540771484375,email,EN,"Solid programming concepts, data structure, design pattern, and algorithm.  Good communication skill is requried. ","Developing a specific software product, from libraries to applications.","Data Science,Computer Science,Software Engineer",Regular interviewer (hiring team),3-4,Mentor new hires,"C#,C++,Python",,51-75%,Proficient,"Starting from computer science to software engineering, worked for many function areas of hardware devices.",>10,"K-Fundamentals of programming,K-Data structures,K-Developing good program design,K-Writing programs,K-Designing algorithms,S-Communication",,,,,
+2021-12-21 22:02:20,2021-12-21 22:36:55,IP Address,80.246.132.87,100,2074,True,2021-12-21 22:36:55,R_3nHEIj55tjmmqKD,Kerner,Ariel,ariel.kerner@microsoft.com,,32.0666046142578125,34.76519775390625,email,EN,"Programming language knowledge according to the level of experience.
+Data structures and algorithms.
+Analytical thinking. Ability to understand and solve complex problems.
+Ability to provide writen and oral explanation.
+Good communication skills.
+Great team work.
+Ability to work independently.
+Commitment, strong sense of ownership.
+Initiative and innovative. Looking to change and make things better.","Work on a programming complex project.
+Design SW architecture, work with OS or RT OS, threads, interrupts.
+Work with several people and share modules, plan and execute integration.
+Write tests to verify the implementation.
+Work with code management tool, Git preferred.
+Scrum methodology.
+Experience in some additional area is a bonus: embedded systems, EE knowledge, signal processing etc.","Computer Engineer,Computer Science,Software Engineer",Hiring manager,>10,Manage new hires,"C,C++,Python",,11-25%,Expert,"I manage people who write code, not writing by myself for a long time, so I have rust.",5-10,"K-Writing programs,K-Data structures,K-Designing algorithms,S-Problem solving,S-Communication,S-Teamwork,K-Operating systems,K-Unit test,K-Tools,K-Program management,K-Knowledge and understanding,K-Fundamentals of programming,S-Ethical,K-Multithreaded programming",,,,,
+2021-12-27 17:32:01,2021-12-27 23:36:03,IP Address,31.168.193.152,100,21841,True,2021-12-27 23:36:03,R_3MDna8DmwXMNsRb,Redman,Ronny,Ronny.Redman@microsoft.com,,32.0666046142578125,34.76519775390625,email,EN,"Proven track record of excellency
+Passion about problem solving 
+Passion about the technical world
+Ability and eagerness to learn - growth mindset
+Keeps trying to solve problems even after first failure - growth mindset and creativity
+A Team player
+","Leading activity or a project in the world of HW or SW development.
+Successful leading is good but also if the project failed and the candidate understands why is also OK.
+Working in a team and taking his/her own responsibility, while helping the overall result is important too.
+Understanding the big picture and how the development fits in the world is essential.  ","Computer Engineer,Software Engineer",Hiring manager,>10,Manage new hires,,,0-10%,,,>10,"S-Problem solving,S-Lifelong learning,S-Teamwork,S-Big picture,S-Creative and innovative,S-Passionate",,,,,
+2021-12-27 17:32:12,2021-12-28 00:49:23,IP Address,84.229.102.40,100,26230,True,2021-12-28 00:49:23,R_3JgenABeWRum1vt,Tsvetov,Anatoliy,Anatoliy.Tsvetov@microsoft.com,,32.3347930908203125,34.8596038818359375,email,EN,"Curiosity, Communication Skills, University\Work experience with one OOP language (C++ for example) and one non-OOP language (C for example), Good familiarity with data structures, ability to work in a team, to be open to constructive criticism, to be open-minded","1. Hard bugs that took you to unfamiliar territories 
+2. Explorations of new areas
+3. Hands-on coding
+4. Learning a new programming language
+5. Code refactoring
+6. Writing SW with complex design","Computer Engineer,Data Science,Computer Science,Software Engineer",No hiring responsibilities,0,Mentor new hires,"C,C++,Python",,76-100%,Proficient,"I think of myself as a good programmer with deep understanding of the code but I wouldn't select expert or master as I think those ranks belong to the language inventors and contributors. 
+For example Guido van Rossum ranked himself as 8/10 in Python when he was interviewing for google.",4-5,"S-Curious,S-Communication,K-Mutiple languages,K-Data structures,S-Teamwork,S-Humble,K-Object oriented programming,S-Lifelong learning",,,,,
+2021-12-27 17:31:58,2021-12-28 01:14:59,IP Address,85.64.175.3,100,27781,True,2021-12-28 01:14:59,R_3r0QbdyiOEmSQvV,Pundak,Gilad,Gilad.Pundak@microsoft.com,,31.96319580078125,34.8040008544921875,email,EN,"1. Math (Especially linear algebra)
+2. In case of embedded programming - physics, signal processing and EE
+3. Both high level scripting language like Python and low level like C / CPP
+4. Modern files system handling like git
+5. Nice to have - Machine learning (classical and new), cloud infra like Azure/AWS etc. ","1. Have a gradual growth - start with small tasks with a high volume of mentoring, get a good habits of the small details and continuously get more and more responsibilities
+2. Have a feedback cycles on a normal basis  both from the direct manager and from colleges
+3. Stay up to date with the latest technologies, methodologies and tools, not everything should be adopted immediately but it’s preferable not be left behind   ","Computer Engineer,Data Science,Computer Science,Software Engineer",Occasional interviewer (hiring team),1-2,Mentor new hires,"C#,Python",Matlab,26-50%,Expert,"I have a lot of experience with various technologies - machine learning, cloud infra, low level algorithms etc. ",5-10,"K-Knowledge and understanding,K-Tools,K-Machine learning,S-Lifelong learning,K-Single language,K-Scripting language",,,,,
+2021-12-27 17:31:57,2021-12-28 02:57:23,IP Address,79.183.141.158,100,33925,True,2021-12-28 02:57:23,R_2dYLqiK56ma6uGc,Oren,Navot,navot.oren@microsoft.com,,32.0666046142578125,34.76519775390625,email,EN,"Knowledge: Operating Systems, Data management (Data base)
+At least one programming language
+Object Oriented Design
+Skills:
+Creative thinking
+Communication skills - Team player
+Autodidactic  
+Characteristics:
+Passion
+engagement","Experience that gains by doing the task
+Being open for feedback from Colleague
+Self learning and exploration to gain the knowledge required for completing the tasks
+Being curios to understand the work of others and the high level POV
+Being empathic to the customer
+Working with strong mentor","Computer Engineer,Software Engineer",Hiring manager,>10,Manage new hires,"C++,Python",,0-10%,Expert,I have very strong background (before even high school). I have many years of learning engineering and SW and many years of experience,>10,"K-Operating systems,K-Data structures,S-Creative and innovative,S-Communication,S-Lifelong learning,S-Teamwork,S-Curious,K-Object oriented programming,K-Single language",,,,,
+2021-12-27 17:32:30,2022-01-02 05:21:11,IP Address,167.220.205.13,100,474521,True,2022-01-02 05:21:12,R_D61LKDuFHQnffqN,Hadad,Natenal,netanel.hadad@microsoft.com,,32.1678924560546875,34.8339996337890625,email,EN,"Smart, creative, humble, orderly, task-oriented","Failures - learning from mistakes
+Teamwork and mutual help","Computer Science,Software Engineer",No hiring responsibilities,0,No involvement with new hires,"C,C++,JavaScript,PHP,Python,SQL",,51-75%,Advanced-Beginner,"I'm new to hardware but feel I'm already quite understanding.
+I have quite a bit of previous experience in the web field",2-3,"S-Creative and innovative,S-Humble,S-Lifelong learning,S-Teamwork,S-Attention to detail,K-Program management",,,,,
+2021-12-27 17:31:58,2022-01-02 14:55:54,IP Address,46.210.26.237,100,509036,True,2022-01-02 14:55:54,R_1BRbqqYInTPHvCy,Zagiel,Lior,Lior.Zagiel@microsoft.com,,31.8943023681640625,34.8191986083984375,email,EN,"* Basic programming knowledge - Basic knowledge in more than one language (c+python for example) Object  oriented coding
+* Basic analytical skills - ability to understand what is required and why (high level view of the tasks). How to test it to make sure it works.
+* Interpersonal skills - ability to interact with other people to ask questions, integrate own code to others , present what plans to do
+* Curiosity
+","* Working/interacting in a team - experience in collaborating in a group (could be sports, boy scout, work..)
+* Being in a place where authority needs to be accepted - school, sport team etc..
+* General coding experience - Even if not in the specific language
+ ","Data Science,Computer Science,Software Engineer",Occasional interviewer (hiring team),0,Work with new hires,"C,Python",,26-50%,Proficient,,2-3,"K-Fundamentals of programming,K-Mutiple languages,S-Problem solving,K-Testing and debugging,S-Teamwork,S-Accountable,K-Writing programs,S-Curious,K-Object oriented programming",,,,,
+2021-12-27 17:31:59,2022-01-03 13:21:26,IP Address,31.168.24.239,100,589766,True,2022-01-03 13:21:26,R_2ZQPxqqIe0VETfz,Perelman,Vova,Vova.Perelman@microsoft.com,,32.0666046142578125,34.76519775390625,email,EN,"Knowledge:
+1. Basic computer hardware understanding
+2. Basic software understanding - OS concepts, basic low level language skill, basic high level language skill.
+3. CS basics - basic data structures, basic algorithmic concepts.
+
+Skills:
+1. Curiosity and ability to learn new technologies / concepts.
+2.  Soft skills - empathy, presentation skills, ability to work with other people. ","1. Developing full stack solution: from UI to software implementation, maybe even hardware implementation (see Nand to Tetris).
+2. Working on a big project in a big team - working with different people, how to read other people code, how to develop in team standards.
+3. Working with a client (either external or internal in the organization) - understand how the software is translated to an end user product. ",Software Engineer,Occasional interviewer (hiring team),1-2,Mentor new hires,"C,C#,C++",,51-75%,Competent,I have enough technology experience in my field but lacking the soft skills and organizational experience,2-3,"K-How computers work,K-Mutiple languages,K-Data structures,S-Communication,S-Empathy,S-Teamwork,S-Curious,K-Designing algorithms,K-Operating systems",,,,,
+2021-12-27 17:31:57,2021-12-28 04:41:15,IP Address,77.138.29.34,15,40157,False,2022-01-04 04:41:16,R_2dnfu9r1U2fY8pR,Dekel,Shoham,shoham.dekel@microsoft.com,,,,email,EN,"'- Thinking steps ahead (Chess like ability), allowing understanding implications of approaches/suggestions 
+- Memory, remembering past experience and references, not necessarily recalling every details but knowing where to look 
+- Mental ability to hold complex designs
+- Personal skills that allow leveraging others knowledge and work
+- Quality perfectionist, checking every detail and edge case, everyone has bugs - the question is who finds them and how much time was lost in the process  
+- Helping others be better, reviewing code & designs, sharing knowledge 
+- Curiosity, there is always more to learn, both in deep dive and in new areas, depending on the person & project level - it can be different functionality in the same project or different project 
+Also understanding every detail of the work related to them","'- Thinking steps ahead (Chess like ability), allowing understanding implications of approaches/suggestions 
+- Memory, remembering past experience and references, not necessarily recalling every details but knowing where to look 
+- Mental ability to hold complex designs
+- Personal skills that allow leveraging others knowledge and work
+- Quality perfectionist, checking every detail and edge case, everyone has bugs - the question is who finds them and how much time was lost in the process  
+- Helping others be better, reviewing code & designs, sharing knowledge 
+- Curiosity, there is always more to learn, both in deep dive and in new areas, depending on the person & project level - it can be different functionality in the same project or different project 
+Also understanding every detail of the work related to them",,,,,,,,,,,"S-Problem solving,S-Attention to detail,S-Curious,S-Teamwork,S-Helpful",,,,,
+2022-01-04 22:11:17,2022-01-04 22:21:53,IP Address,85.65.73.106,100,636,True,2022-01-04 22:21:53,R_1riYzRZIw9LsHDR,Mantzur,Dudi,dudi.mantzur@microsoft.com,,32.0821075439453125,34.81219482421875,email,EN,,"He need to get into the details and ask the right questions. 
+He need great communications skills so he can understand the customer and bring to him great solution","Computer Engineer,Software Engineer",No hiring responsibilities,0,Work with new hires,"C#,C++,Python,SQL",,76-100%,Expert,Leading the major activities on my group,5-10,"S-Curious,S-Communication",,,,,
+2022-01-04 19:54:27,2022-01-05 04:27:13,IP Address,167.220.204.132,100,30766,True,2022-01-05 04:27:13,R_2qsD3DSoewaRPva,Nagola,Zohar,Zohar.Nagola@microsoft.com,,32.1678924560546875,34.8339996337890625,email,EN,"analytical  and logic skills
+Math background like linear algebra 
+signal processing 
+
+","curiosity, deep understanding of what he is programming for, the considerations.
+know how to divide the program to checkpoints and milestones
+debugging os each phase and integrations 
+definition of done (KPIs)","Data Science,Information Systems",Hiring manager,>10,Manage new hires,Python,Matlab,0-10%,Advanced-Beginner,"I am not doing code in my role
+I lead the Program management team.
+I did some coding in the past - mainly digital design, and Matlab/python in my system architecture past",2-3,"K-Knowledge and understanding,S-Curious,K-Program management,K-Testing and debugging",,,,,
+2022-01-18 19:55:43,2022-01-18 21:01:29,IP Address,24.9.28.208,100,3945,True,2022-01-18 21:01:29,R_2PBDtrRaJumwaoO,Voss,Shane,shvoss@microsoft.com,,40.5970001220703125,-105.05889892578125,email,EN,"1. Knowledge of programming language syntax and good programming practices.  
+2. Creativity to solve a problem with their own perspective
+3. Thorough.  Document, Test and verify their solution.","Learn from mistakes.  Don't take it as personal attack but opportunity for growth.
+Bug Failure Analysis. Investigate and discover.
+Peer Code reviews
+","Computer Engineer,Data Science",No hiring responsibilities,0,No involvement with new hires,"C,Python",,0-10%,Competent,"Wrote system FW for several years.  Improved skills and efficiency with more experience. ",2-3,"K-Writing programs,K-Developing good program design,K-Testing and debugging,K-Generating clear documentation,S-Lifelong learning,K-Failure analysis,K-Code reviews,S-Problem solving,S-Creative and innovative",,,,,
+2022-01-18 19:55:40,2022-01-19 11:08:09,IP Address,76.104.244.172,100,54748,True,2022-01-19 11:08:09,R_1rApIP27VWwMzgp,Tian,Simon,simontia@microsoft.com,,47.58709716796875,-122.0388031005859375,email,EN,"Fundamental CS knowledge, such as data structure, algorithms, computer system, etc.
+Programming skills
+Curiosity, eager to learn
+Disciplined, able to follow design/coding best practices
+Teamwork
+
+","Develop SW features/products that this person is passionate on
+Work in a strong team
+Have a good manager
+Have a good mentor
+Work in a good company that provides good learning opportunities, such as training and other free learning materials
+","Computer Engineer,Cybersecurity,Software Engineer",Occasional interviewer (hiring team),1-2,Mentor new hires,"C#,Python",,0-10%,Expert,I have worked in computer/SW engineering for 25+ years,5-10,"K-Data structures,K-Designing algorithms,S-Curious,S-Lifelong learning,S-Disciplined,S-Teamwork,S-Passionate",,,,,
+2022-01-18 19:55:44,2022-01-19 14:05:19,IP Address,64.187.168.139,100,65375,True,2022-01-19 14:05:20,R_3MDMk4Ptokupp4G,Forhman,Sean,Sean.Frohman@microsoft.com,,47.6143951416015625,-122.344696044921875,email,EN,"Don't be afraid to ask questions when something isn't clear. Don't be afraid to try something that might not work, it is part of the process to finding something that does work. Algorithm development is important, it demonstrates a lot of the thought processes required to succeed and learn new concepts in practice. Master a single programming language, even if it isn't the one you will ultimately end up using most. The ability to master one is usually a good indicator that one can master others as well.",Understanding the platform the programmer is writing code for. When you know what the hardware is supposed to do and how it works you open up a new level of capability in debug and impact. Having experience with hands on hardware development is incredibly helpful in being a successful programmer.,"Computer Engineer,Software Engineer",Hiring manager,5-10,Manage new hires,"C,C#,Java,JavaScript,Python",,11-25%,Expert,I have developed frameworks and standards used by entire product portfolios.,4-5,"K-Designing algorithms,K-Single language,K-Computer hardware,S-Creative and innovative,S-Curious,S-Asks questions",,,,,
+2022-01-18 19:55:45,2022-01-19 15:55:04,IP Address,24.9.88.51,100,71958,True,2022-01-19 15:55:04,R_1mfVfJpr5nxfPFX,Cook,John,jocoo@microsoft.com,,40.5377044677734375,-105.05460357666015625,email,EN,"Patiance - It takes time to do a big project, waiting for others
+debugging - finding issues in your code and in others code
+Self-starter - Willing to jump into what is needed
+Intrigue - Always looking to learn
+Unit test - ability to test your code and to test others code
+Syntax and build environment knowledge - Language depth and breath.
+Interpersonal skills - working in a group
+Communication - remote information and people (other languages if posable)
+Documentation - Code and usage documents and so many other documents
+Time management and prioritization - Can do the important things first
+Computer hardware architectures - how and why
+Network architectures - wireless and wired
+Important people in computer history and their stories - Why they did what they did
+Important companies in computer history - Where the industry is going 
+Important new discoveries - Technologies that will drive the future
+Basic business skills - project planning and resource projections
+Multi-platform knowledge - Mobil, Gaming, PC, Unix, Many other, the more the better
+Friendly, Kind, Helpful - Team enabling. Can work with anyone. (Even those you do not like)
+","Hardware design
+Hardware debug
+Writing games
+Community service
+Language translation
+IT work
+Web development
+Constant development, Asking questions. Seeking knowledge.
+Any code writing. Thread debugging
+Data structures background and programming
+Reading books/Blogs/Magazines
+Programing contests
+Teaching others about programing (TA)
+Doing their own projects
+Study architectures and algorithms
+","Computer Engineer,Computer Science,Software Engineer",Regular interviewer (hiring team),3-4,Mentor new hires,"C,C#,Python","PowerShell, Batch files",11-25%,Proficient,My training is many years ago. I have used many languages and a diversity of hardware types.,>10,"K-Testing and debugging,S-Lifelong learning,S-Teamwork,S-Communication,K-Generating clear documentation,K-Networking and communication,K-Tools,K-Program management,S-Helpful,K-Computer hardware,K-Writing games,K-Designing algorithms,K-Unit test,K-How computers work,K-Fundamentals of programming,S-Curious,S-Empathy,S-Disciplined",,,,,
+2022-01-18 19:55:42,2022-01-19 16:04:13,IP Address,131.107.1.224,100,72510,True,2022-01-19 16:04:14,R_Zg8lbufl180qucx,Kladjarern,Nob,nokladja@microsoft.com,,47.6710968017578125,-122.12530517578125,email,EN,"Computer architecture or micro-architecture, OS kernel or RTOS knowledge, proficiency in C, or Python, multithreaded or thread-safe programming, ability to work through ambiguity, KISS.","Debugging skills, especially debug methodologies outside of just source-level debug. Basic coding ability, but not everyone needs to be a super coder.","Computer Engineer,Software Engineer",Hiring manager,5-10,Manage new hires,"C,C++,Python",,0-10%,Competent,"Used to be better at coding, but now rusty after several years as dev lead.",2-3,"K-Operating systems,K-Multithreaded programming,S-Problem solving,K-Testing and debugging,K-How computers work,K-Writing programs,K-Single language",,,,,
+2022-01-18 19:55:42,2022-01-19 16:53:42,IP Address,50.34.32.254,100,75480,True,2022-01-19 16:53:43,R_1mFvZysndtIOEZq,Gilfillan,Blake,blgilfil@microsoft.com,,47.8533935546875,-122.243804931640625,email,EN,"'- Working proficiency of the programming language they will be coding in
+- An understanding of basic design patterns. 
+- The ability to ask for help when stuck on an issue, unsure of the best approach, or prior to spending a lot of resource coding something. 
+- A habit of looking for existing work and information to leverage prior to creating something again. 
+- A basic understanding of UnitTest and consideration for code quality when programming.
+","'-Exposure to the life cycle of a code project. Starting from detailing the requirements through to code sustaining efforts.  These will help the programmer understand where a design can fail and how they can be written better the 1st time.
+- Experience having to refactor someone else's code teaches programmers the value of good documentation, breaking code into manageable sizes that allow it to be upgraded and reused. ","Computer Engineer,Data Science",Occasional interviewer (hiring team),0,Mentor new hires,"C#,Python",,0-10%,Proficient,"I am an EE by training and code to develop test systems and perform data analysis. While I understand Design Patterns and have experience in my specific domain knowledge, I currently spend little time programming and would not consider programming itself my domain of expertise. ",5-10,"K-Writing programs,S-Helpful,K-Testing and debugging,K-Unit test,K-Generating clear documentation,K-Abstraction,K-Specific language,S-Asks for help,K-Program management",,,,,
+2022-01-18 19:55:43,2022-01-20 14:24:02,IP Address,71.231.160.46,100,152898,True,2022-01-20 14:24:02,R_2S1PXyRdNUj09lp,Balachander,Namita,namiba@microsoft.com,,47.6721954345703125,-122.125701904296875,email,EN,"Debugging ability. Although it's useful to have generic programming skills (languages, environments, etc.), it's much more useful to be able to figure out what's wrong when something goes wrong. For example, being able to read logs and understand why the compile is failing, or when you're trying to solve an ambiguous problem, being able to break it up into pieces rather than needing to jump to a solution is really helpful ","To develop into a good programmer, I highly recommend opportunities that you get a chance to debug and learn to break ambiguous problems into pieces. It's really important to be able to tackle bugs and figure out small pieces. ",Computer Engineer,Regular interviewer (hiring team),5-10,Work with new hires,"C,C++",,0-10%,Competent,I can figure out problems and code a bit.,2-3,"K-Testing and debugging,S-Problem solving",,,,,
+2022-01-18 19:55:48,2022-01-24 09:21:29,IP Address,50.35.72.103,100,480341,True,2022-01-24 09:21:29,R_2e9lVbkDPAslQuC,Fudally,Scott,Scott.Fudally@microsoft.com,,47.67840576171875,-122.185699462890625,email,EN,"The most important skill is problem solving by understanding the fundamentals of what they do know, what they do not know and how to bridge that gap systematically until they come up with a solution.
+
+Knowing every detail of every framework is generally of limited use - general knowledge of patterns gained through reading and experience that can then be applied as appropriate to situations (and only when worthwhile to prevent over-optimizing or over-complicating designes)","Debugging anything - needed to understand what was expected, what is actual, and the process of identifying where the expectation fell short
+
+Turning an idea into a usable system for someone else - not only translating your own idea into something actual that functions but then having it be for someone else helps you learn about gaps in communications, expectations, understandings, etc. in what someone or something else will do with your system",Software Engineer,Hiring manager,>10,Manage new hires,"C,C#,Python",Powershell,11-25%,Proficient,"I like to learn enough to be able to read anything and use it where appropriate, understand what I would need to do if something had to be optimized.  I generally stand up new architectures and concepts but do not spend very lengthy times in the same code bases to need to get to higher levels to make impact",>10,"S-Problem solving,K-Testing and debugging,S-Communication,K-Developing good program design",,,,,
+2022-01-18 19:55:48,2022-01-19 00:08:48,IP Address,73.181.197.11,8,15180,False,2022-01-26 00:08:51,R_2rPhN9nVQHFp8ht,George,Abe,abrahamg@microsoft.com,,,,email,EN,"1. A good understanding of programming  concepts 
+2. Problem solving skills  [ dotn need to get the answer correct, but must be able to reason why something was done in a certain way ) 
+3. Willingness to learn and understand how things work 
+",,,,,,,,,,,,"K-Fundamentals of programming,S-Problem solving,S-Lifelong learning",,,,,
+2022-02-08 21:26:10,2022-02-08 21:45:19,IP Address,71.227.178.234,100,1149,True,2022-02-08 21:45:19,R_2YgPpdWwo9MrwHw,Suzuki,Nobu,Nobuyuki.Suzuki@microsoft.com,,47.6721954345703125,-122.125701904296875,email,EN,"first of all, domain program coding skill which the position requires, e.g. C, C++, Java, Python,  database design or query mechanism specifically for database analysis or database front end. peripheral skill is a coding style if he or she has a trained coding convention or coding practice. Recently source code version control and build management becomes also important knowledge, although applicant may not mainly work for environment set-up. as an individual contributor, communicative skill as well as skill to work as a good team member is heavily weighted.","working in environment where a good coding style and practice are there will help growing a good programmer. also atmospher where continuous learning is considered as norm helps, as being a good programmer is not one day or one year activity. sometimes ""death march"" experience helps to acquire capability of how to evacuate from project like hell.",Software Engineer,Occasional interviewer (hiring team),3-4,Work with new hires,"C,C#,C++,Python",Powershell script,51-75%,Competent,I have never trained programing professionally (e.g. college). All are working knowledge or self-learning. It doesn't have comprehensive coverage.,>10,"K-Developing good program design,K-Tools,S-Communication,S-Teamwork,S-Lifelong learning,K-Mutiple languages",,,,,
+2022-02-08 23:05:50,2022-02-08 23:13:22,IP Address,85.250.191.87,100,451,True,2022-02-08 23:13:22,R_10rrzWF2Xoz7nFF,Lifshitz,Asi,Asi.Lifshitz@microsoft.com,,32.0666046142578125,34.76519775390625,email,EN,"1. Know Python
+2. OOP is of advantage
+3. Logical thinking
+4. Optimization-oriented
+5. Willing to experiment and open to new ideas","1. Code reviews
+2. Good practices for keeping their code clean and readable
+3. Knowing that a good good is like a book - it has to be human readable and clear and have some joy reading it",Computer Engineer,Hiring manager,5-10,Train new hires,"C,Python",System Verilog,0-10%,Proficient,"I think I can still learn, and there are times when I'm more involved in coding, hence I have better skills.",>10,"S-Problem solving,K-Code reviews,K-Developing good program design,K-Object oriented programming,K-Scripting language,S-Creative and innovative",,,,,
+2022-02-08 23:25:24,2022-02-09 00:16:10,IP Address,98.237.162.230,100,3046,True,2022-02-09 00:16:11,R_PALjcUb89BCxgC5,Schock,John,joschock@microsoft.com,,47.29620361328125,-122.39530181884765625,email,EN,"1. Programming Language fluency. To a great degree, programming languages are for human consumption rather than machine consumption (that's why we don't program in machine code). Consequently, language fluency is critical. Like reading other human languages, it's not just basic syntax understanding - developing an intuition for what the code author was trying to accomplish and a sense of the overall way the code hangs together, the nuances that a design conveys about the requirements. In the same way, language fluency enables authoring code that is maximally understandable by other humans and minimizes the cognitive burden required to understand it. 
+2. Trained in the scientific method as applied to programming. Being able to systematically analyze code, synthesize testable predictions about its behavior, and formulate tests to prove or disprove those predictions is a key skill for debug and program understanding.
+3. Oriented towards knowledge acquisition instead of knowledge retention. Knows how to discover answers to questions quickly rather than relying on memorized domain knowledge. 
+4. Recognizes the importance of mastering the tools of the trade. Characterized by having developed a stable of good tooling that contributes to rapid digestion and exploration of complicated code bases. Most great programmers I know are true masters of the code search tools and editors that they use and are constantly improving the toolchest that they use through little scripts, editor extensions, source control tricks, etc. 
+5. A humility about the correctness and performance of one's own code. My code is always guilty until proven innocent by testing and verification of its expected operation. Knows how to write tests that prove code is correct. 
+","1. Opportunities to explore the boundaries of one's competence without being thrust into completely alien territory. As experience grows, the frontiers of competence expand - programmers that don't continue to chase that frontier become stagnant with respect to expertise. Conversely, those who are thrown into the deep end without support fail without learning. Staying in the goldilocks zone at the edge of competence is key.
+2. Exposure and engagement with experts. Even once a programmer has become a highly-experienced ""good programmer,"" continuing to interact with others at high-levels of competence is important for refining and growing one's technique. 
+3. Successfully delivering a product. Creating something that is out there in the world that people actually use is a key motivator for further success. If you only work on things that no one sees or appreciates, or if all your projects are cancelled before release, it is hard to be motivated to be any better. 
+4. Non-programming (e.g. people skills) development. Programming as a field can often attract brilliant people who are somewhat difficult to interact with. Developing non-technical skills such as clear communication, ability to give grace to difficult people, knowing how to set good professional boundaries and build professional relationships can actually be really key to unlocking access to people who have a lot to contribute back to your own technical development. ","Computer Engineer,Computer Science,Software Engineer",Regular interviewer (hiring team),5-10,Mentor new hires,"C,Python",,76-100%,Master,"While there is always room to improve, mastery means that there is really no programming challenge in my domain that I am not equipped to successfully deliver code for. It is rare to encounter code in my domain of expertise that I cannot understand/explain at a deep level from experience/memory.  ",5-10,"K-Scientific method,K-Tools,K-Testing and debugging,K-Unit test,S-Communication,S-Lifelong learning,S-Teamwork,S-Problem solving,K-Developing good program design,S-Humble,S-Accountable",,,,,
+2022-02-09 12:15:37,2022-02-09 12:38:32,IP Address,131.107.160.59,100,1375,True,2022-02-09 12:38:33,R_242dlijpFEDGKYY,Antipov,Dmitry,dmitry.antipov@outlook.com,,47.6175994873046875,-122.14239501953125,email,EN,"""Programming position"" is a very broad definition, so I will try to make my answers just as broad.
+Knowledge:
+ - Basic understanding of the hardware on which the program runs. Not necessarily the CPU architecture, but general infrastructure being used. Webapps will run on servers where some function calls will cause network traffic and delays. Embedded programs run in low-memory and low-storage environments, etc.
+ - Familiarity with basic algorithms and data structures. These are useful for any type of programming.
+ - Good knowledge of at least one programming language. This allows the new hire to learn new languages faster by finding parallels and new items that require more attention to learn.
+ - Basic understanding of a scripting language. It is vital for any programmer to automate daily tasks and to be able to run bench tests of their code.
+
+Skills:
+ - Analytical mind. Ability to mentally walk through the code, think of possibilities, choose best way to implement logical designs.
+ - Communication skills are huge. Being able to ask the right questions, communicate progress, expectations and dependencies, offer help when it might be useful.
+
+Characteristics:
+ - Hunger for knowledge and learning, general interest in the field of programming, curiosity.","Some experience in as many different programming ""fields"" as possible: web apps are different from mobile apps, low-level embedded programming, scripting, OS programming. Within each there are also multiple levels of abstraction - at the lowest level the code is written in assembly, and at the top it's likely object-oriented and very abstract. These are valuable experiences to be exposed to and should be seeked out. This allows a programmer to learn what they have the most fun doing and what they'd like to pursue in their career.
+
+",Software Engineer,Occasional interviewer (hiring team),3-4,Train new hires,"C,C++,Java,Python",,51-75%,Proficient,"I chose ""proficient"" based on my subjective standing among the folks that I work with and that review my code and whose code I review. Simplistically speaking, beginner would get a lot of useful feedback on their code, and would not provide much useful feedback in an expert's code review and vice versa. I believe that I'm somewhere in the middle. Masters, to me, are the people whose job is to write compilers and new revisions of the programming language standards; those people write language specifications and textbooks.
+",4-5,"K-How computers work,K-Single language,K-Unit test,S-Communication,S-Curiosity,S-Lifelong learning,K-Broad experience,K-Abstraction,K-Object oriented programming,K-Designing algorithms,K-Scripting language,S-Problem solving",,,,,
+2022-02-09 19:08:58,2022-02-09 19:15:09,IP Address,73.193.3.175,100,370,True,2022-02-09 19:15:09,R_3n8XhXmqjLl5a5v,Tertzakian,Samu,satertza@microsoft.com,,47.722900390625,-122.19609832763671875,email,EN,"Knowledge of C including pointers and dynamic memory allocation.
+Debugging methods, including logging, assertions, single-stepping changes and instrumentation.
+Synchronization and, especially, the concept of ""run-down"".
+",Writing and debugging a lot of code from scratch.,"Computer Science,Software Engineer",Occasional interviewer (hiring team),5-10,Mentor new hires,"C,C++","Should add Rust to the list, although I don't use it personally.",76-100%,Expert,"I have over 20 years experience. I have written and designed frameworks for other programmers to make programming easier and more cost-effective. I don't choose ""Master"" because I always have more to learn.",>10,"K-Pointers,K-Memory allocation,K-Testing and debugging,K-Writing programs",,,,,
+2022-02-15 21:57:32,2022-02-15 22:22:47,IP Address,67.168.102.15,100,1514,True,2022-02-15 22:22:47,R_3MfmTqdj7fPziia,Liu,Wenfang,wenfeng.liu@microsoft.com,,47.5290985107421875,-121.8231048583984375,email,EN,"'-	Be proficient in at least one modern programming language like C/C++, Java, C# or Python
+-	Understand modern computer systems and theories.
+-	Problem-solving capabilities. Modern programming projects are more of system integration, debugging and improvement activities. It is very rare that we needed to build an entire system from the ground up. So problem-solving capabilities are very important. We need people who can move the stones.
+-	Accountability, reliability and responsibility. Doing a successful project depends on the reliable performance of every single stakeholder.
+-	Teamwork. The ability to work with others in a team is very important.
+","'-	Working with experienced professionals.
+-	Building big projects and delivering products.
+-	Daily coding tasks.
+-	Try and understand and debug other people’s code.
+","Computer Engineer,Software Engineer",Occasional interviewer (hiring team),1-2,No involvement with new hires,"C,C#,C++,Java",,26-50%,Proficient,"'- I have been building and delivered big production projects and products.
+- I am making software applications and tools regularly.
+- I am working on Linux, Android and Windows systems.",>10,"K-Single language,K-How computers work,S-Problem solving,S-Accountable,S-Teamwork,S-Ethical,K-Fundamentals of programming",,,,,
+2022-02-23 21:55:39,2022-02-23 22:03:30,IP Address,173.14.252.253,100,471,True,2022-02-23 22:03:30,R_3jSOAty1AD68eFU,Millsap,Paul,paulmill@microsoft.com,,47.67840576171875,-122.185699462890625,email,EN,"1. A good understanding of the language(s) they will be programming in
+2. A good understanding of the compilers they will be using
+3. Depending on the type of Software or Firmware they will be programming for they may need deeper understanding of how OS kernel, SoC hardware, or pre-SoC hardware (e.g. MCU)
+4. Attention to detail
+5. Good communication skills - be able to communicate complex (or maybe not so complex) topics to a non-technical person or a person with little understanding of the application, driver, service, firmware being developed","1. Using Visio (or other visualization software) for diagramming components within their package, architecture, flow diagrams. 
+2. If there is a UI experience in Accessibility in software
+3. Experiences with culturally aware applications development, language,  ",Software Engineer,Regular interviewer (hiring team),3-4,Mentor new hires,C++,,0-10%,Beginner,"I am a PM, I don't get to code very often. However, I do, do code reviews. ",>10,"K-Tools,K-Computer hardware,S-Communication,S-Attention to detail,K-Generating clear documentation,K-Specific language,S-Ethical,K-Operating systems",,,,,

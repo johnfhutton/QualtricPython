@@ -1,0 +1,49 @@
+-- Sorted by label --
+K-Abstraction                        2
+K-Broad experience                   1
+K-Code reviews                       2
+K-Computer hardware                  3
+K-Data structures                    6
+K-Designing algorithms               7
+K-Developing good program design     6
+K-Fundamentals of programming        7
+K-Generating clear documentation     4
+K-How computers work                 6
+K-Imperative Programming             1
+K-Knowledge and understanding        4
+K-Machine learning                   1
+K-Memory allocation                  1
+K-Multithreaded programming          2
+K-Mutiple languages                  6
+K-Networking and communication       1
+K-Object oriented programming        6
+K-Operating systems                  6
+K-Pointers                           1
+K-Program management                 5
+K-Scientific method                  1
+K-Scripting language                 4
+K-Single language                    7
+K-Specific language                  2
+K-Testing and debugging             11
+K-Tools                              6
+K-Unit test                          5
+K-Writing games                      1
+K-Writing programs                   9
+Q1-Parsing                           1
+S-Accountable                        3
+S-Asks for help                      1
+S-Attention to detail                3
+S-Big picture                        2
+S-Communication                     14
+S-Creative and innovative            7
+S-Curious                           12
+S-Disciplined                        2
+S-Empathetic                         2
+S-Ethical                            3
+S-Helpful                            3
+S-Humble                             3
+S-Lifelong learning                 14
+S-Passionate                         3
+S-Problem solving                   16
+S-Teamwork                          13
+{"ImportId":"Q1-Par_CED1s7utfk"}     1

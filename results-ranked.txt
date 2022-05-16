@@ -1,0 +1,49 @@
+-- Ranked List --
+S-Problem solving                   16
+S-Lifelong learning                 14
+S-Communication                     14
+S-Teamwork                          13
+S-Curious                           12
+K-Testing and debugging             11
+K-Writing programs                   9
+S-Creative and innovative            7
+K-Designing algorithms               7
+K-Fundamentals of programming        7
+K-Single language                    7
+K-How computers work                 6
+K-Data structures                    6
+K-Tools                              6
+K-Mutiple languages                  6
+K-Object oriented programming        6
+K-Operating systems                  6
+K-Developing good program design     6
+K-Program management                 5
+K-Unit test                          5
+K-Knowledge and understanding        4
+K-Generating clear documentation     4
+K-Scripting language                 4
+S-Helpful                            3
+K-Computer hardware                  3
+S-Passionate                         3
+S-Ethical                            3
+S-Humble                             3
+S-Attention to detail                3
+S-Accountable                        3
+K-Abstraction                        2
+S-Disciplined                        2
+K-Code reviews                       2
+K-Specific language                  2
+S-Empathetic                         2
+K-Multithreaded programming          2
+S-Big picture                        2
+K-Pointers                           1
+K-Broad experience                   1
+S-Asks for help                      1
+K-Scientific method                  1
+Q1-Parsing                           1
+K-Writing games                      1
+K-Networking and communication       1
+K-Machine learning                   1
+{"ImportId":"Q1-Par_CED1s7utfk"}     1
+K-Imperative Programming             1
+K-Memory allocation                  1
