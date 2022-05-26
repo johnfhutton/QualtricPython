@@ -1,0 +1,270 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q20,Q1-Parsing
+3/30/2022 8:31,3/30/2022 8:46,0,68.52.184.204,100,894,1,3/30/2022 8:46,R_3p08lmCwmW4FXcH,Towell,Dwayne,dtowell@lipscomb.edu,,36.06599426,-86.96589661,email,EN,"firm grasp of at least one programming language and its standard library, this includes ""exotic"" features such as lamba/anonymous functions, templates and other type extensions, native/provided containers and algorithms, I/O including binary/raw to/from multiple storage mechanisms, network services (at least web requests)
+build process and nuances, experience with at least one deploy process, version control usage, test suites (multiple levels), code review experience (both roles)
+problem solving, communications, precision, debugging/detective skills","undocumented/poorly-documented required API/service (detective/debugging skills)
+porting code to new platform/environment (precision, code review)
+coverage goals for test suites (testing, clean code)
+feature addition to a library/service--this requires extensive mentoring
+write more code, review it, refactor it, repeat","5,7","1,2,4,5",,5,1,"mostly CSE, some empirical performance studies","1,3,9,11",,1,5,"K-Data structures,K-File handling and I/O,K-Web development,K-Tools,K-Version control,K-Testing and debugging,K-Code reviews,K-Problem solving,S-Communication,S-Attention to detail,K-Coding to API,K-Writing programs,K-Refactoring code,K-Designing algorithms,K-Single language"
+3/30/2022 17:09,3/30/2022 17:17,0,129.123.85.243,100,483,1,3/30/2022 17:17,R_1Du70LHeng8wwK0,Phillips,Jonathan,jonathan.phillips@usu.edu,,41.74679565,-111.8267975,email,EN,"The most important skill is the ability (and patience) to plan a solution before implementing.  In other words, draw a flowchart, write some pseudocode, or in some other way come up with a plan of attack.  Second, a new hire should be able to learn new concepts on their own.  There are always new languages and methods being created and popularized.  A good programmer adapts to the new tools and continues to learn.  Third, a programmer must be a team player.  They must write maintainable, well-documented code that can easily be incorporated into a larger project (and possibly reused).","Good programmers need experience with (1) designing complex programs, (2) coding to a specification, (3) debugging, and (4) creating maintainable code.","1,7","1,2,3,4",,2,2,,"1,3",Assembly,1,5,"K-Designing algorithms,K-Pseudocode,K-Abstraction,K-Problem solving,K-Lifelong learning,K-Teamwork and collaboration,K-Writing programs,K-Testing and debugging,Knew-Developing-and coding to-specifications,K-Generating clear documentation"
+3/31/2022 12:31,3/31/2022 12:55,0,129.210.115.232,100,1412,1,3/31/2022 12:55,R_1KllxUB4LnPwITJ,Musurlian,Angela,amusurlian@scu.edu,,37.34759521,-121.9337997,email,EN,Proficiency on two or more programming languages. Advanced data structures and algorithms. Problem solving skills. Self motivation. Ability to work and learn independently. Good communications skills.,"Opportunity to design a solution, implement the solution (coding and debugging) while getting feedback and orientation on how to optimize the solution, use correct indentation and alignment of the code, and the importance of comments. I believe this all helps the initial development of a good programmer. The more projects a student works on, the better programmer s/he will become. ",5,"1,2",,3,2,,"1,9",,1,5,"K-Mutiple languages,K-Data structures,K-Problem solving,S-Skill in stay motivated,K-Communication,K-Developing good program design,S-Receives feedback well,K-Testing and debugging,K-Designing algorithms,K-Writing programs,K-Generating clear documentation,S-Lifelong learning"
+4/4/2022 8:45,4/4/2022 8:49,0,99.37.169.121,100,217,1,4/4/2022 8:49,R_3jW2WoITRLaKzGs,Nasser,Hadi,hadinasser@wayne.edu,,42.33439636,-83.17559814,email,EN,"Serverless computing, networking, full stack development ","Internships, bootcamps","3,5,7",1,,1,2,,3,,1,3,"K-Internships,K-Networking and communication,K-Operating systems"
+4/4/2022 11:45,4/4/2022 11:52,0,128.187.83.253,100,437,1,4/4/2022 11:52,R_R2m44NQ3iLd14Pv,Bean,Gordon,gbean@cs.byu.edu,,40.25840759,-111.6591034,email,EN,"Proficiency in at least two programming languages.
+Decomposition (ability to break down larger problems into smaller problems).
+Modularity (ability to decompose a problem into well-defined, single-responsibility modules).
+Hypothesis-driven debugging skills.
+Ability to write clean, simple code.
+Familiarity with standard data structures and algorithms.
+Responsibility and accountability (will not blame others for mistakes).
+","Successfully completing large projects.
+Education in fundamental principles.
+Mentoring from individuals with mastery in skills and technique.
+Exposure to code written in excellent style and design.
+","4,5,7","1,2",,1,2,,"3,7,10",,1,4,"K-Mutiple languages,K-Abstraction,K-Scope of code,K-Testing and debugging,K-Developing good program design,K-Data structures,K-Accountability,K-Fundamentals of programming,K-Comprehending programs,K-Designing algorithms,K-Writing programs"
+4/9/2022 14:07,4/9/2022 14:14,0,73.145.129.131,100,396,1,4/9/2022 14:14,R_Opyhb71VKLHgNH3,Enbody,Rich,enbody@cse.msu.edu,,42.70689392,-84.4138031,email,EN,"Problem solving, first and foremost, combined with in-depth knowledge of a programming language.","An internship with a company is priceless, especially if there is guidance and mentorship -- it is essential to see how code works in the real world.  For example, customers and specifications cannot be effectively done in school.","2,5","1,4,5",,5,1,"(1) Cybersecurity (2) Education, especially CS1",10,,2,,"K-Problem solving,K-Single language,Knew-Developing-and coding to-specifications,K-Internships"
+4/9/2022 12:09,4/11/2022 10:02,0,35.12.213.219,100,165160,1,4/11/2022 10:02,R_81c61ofdfQbijKN,Owen,Charles,cbowen@msu.edu,,42.73669434,-84.47579956,email,EN,"Ability to be productive in at least one scripting language such as Python
+Ability to be productive in at least one strongly-typed language such as Java or C++
+Asymptotic running time and algorithm complexity
+Safe programming skills such as preventing buffer overruns and avoiding injection
+UML class diagrams and object-oriented decomposition
+State machines
+Regular expressions
+Working knowledge of an assembly language/machine code
+How high-level languages are translated to machine code
+Understanding of the concept of a stack frame
+Knowledge of professional codes of conduct
+Ethical implications of software development
+Ability to work in a team
+GIT
+Iterative development
+Debugging skills
+Unit testing
+Sorting and common sorting algorithms
+Tree algorithms
+Graph algorithms, DFS, BFS, shortest paths
+Understanding of dynamic programming
+Knowledge of NP-complete problems and intractable problems
+Discrete probability
+Basic statistics
+Network protocols
+TCP/IP
+Operating system basic functionality
+Paging and virtual memory
+Processes and processes management
+Basic computer architecture
+Make, CMake, or other larger system build tools
+Understanding of licensing and common license models 
+
+","Working on a larger system as part of a team
+Working on a larger system individually
+A semester-long development project (i.e. Capstone)
+Participation in open-source projects
+Reading a lot of code
+Independent project experience
+Writing documentation and specifications
+Internships with companies
+Learning libraries, API's, or other interfaces independently
+","1,5,7","2,4",,5,1,We are exploring ways to teach diagramming tool to the blind.,"3,8,9,10",,1,5,"K-Scripting language,K-Single language,K-UML,Knew-Assembly language,K-Ethics,S-Teamwork and collaboration,K-Version control,K-Testing and debugging,K-Sorting algorithms,K-Networking and communication,K-How computers work,K-Tools,K-Teamwork and collaboration,K-Comprehending programs,K-Writing programs,K-Internships,K-Memory allocation,Knew-Developing-and coding to-specifications,K-Developing good program design,K-Operating systems,K-Unit test,K-Evaluating time/space complexity ,K-Generating clear documentation"
+4/12/2022 19:43,4/12/2022 19:48,0,98.50.116.24,100,269,1,4/12/2022 19:48,R_3254TMUcEgY9kLX,Watson,Dan,dan.watson@usu.edu,,40.7143,-111.8894,email,EN,"basic programming
+data structure & algorithms
+web dev
+databases
+software engineering",students should have a software methods class that teaches them how to use version control (i.e.git) and should have had at least one team experience using a software development team structure such as scrum,"4,5,7","1,4,5",,5,2,,"1,3,10",,1,2,"K-Data structures,K-Designing algorithms,K-Databases,K-Fundamentals of programming,K-Version control,K-Teamwork and collaboration,K-Web development"
+4/12/2022 20:42,4/12/2022 20:55,0,99.122.88.192,100,756,1,4/12/2022 20:55,R_2bN5i07YtXaFqaU,Malasri,Kriangsiri,kmalasri@memphis.edu,,35.2083,-89.8058,email,EN,"In no particular order:
+
+- Understanding basic control structures like loops and conditional statements.
+
+- Understanding object-oriented programming concepts.
+
+- Familiarity with common libraries and frameworks in the relevant language(s).
+
+- Ability to read other people's code to understand how a system is built, and make changes to the system without rebuilding it from scratch.
+
+- Ability to systematically debug code.
+
+- Familiarity with version control systems.
+
+- Familiarity with common software engineering practices.
+","I think the most important factor is having as much hands-on development experience as possible.  This may involve working on independent projects and/or contributing to open-source projects to supplement formal classroom instruction.
+","5,7","1,2,6",Discrete math (which includes a small programming component),4,2,,"7,10",,2,,"K-Control structures and logic,K-Repetition and loops,K-Comprehending programs,K-Single language,K-Testing and debugging,K-Fundamentals of programming,K-Writing programs,K-Version control"
+4/13/2022 9:56,4/13/2022 11:01,0,73.3.186.233,100,3876,1,4/13/2022 11:01,R_vZxBxLXfK8K44E1,Thompson,Rob,rthompson@mines.edu,,39.6888,-105.156,email,EN,"Design thinking, the ability to research, plan, iterate, and execute on a larger idea
+Adaptability, the ability to handle new challenges, ask for help, learn, and apply new knowledge
+Programming fundamentals, thorough knowledge of control flow, basic algorithms, OOP
+Expertise in at least one programming language
+Ability and willingness to read others' code
+Software engineering practices, particularly the ability to work in a team but also the importance of organization and documentation
+Comfort with computers, which would probably come from some combination of hardware, os, networking and compiler classes","Group work, it often sucks in school, but learning to rely on, work with, and maybe manage other people is super important for future profession work
+Getting stuck, it's going to happen eventually and programmers who are used to getting things right will struggle to seek help, learn to read documentation, or use good debugging strategies
+Practical projects, being able to do group work (see above), accurately estimate your work rate, and work on something that is comprised of multiple, lengthy parts is very important
+Code reads, get used to having other people read and critique your code, develop the ability to take and benefit from critique
+Interdisciplinary work, learn how to work with non-programmers, develop the ability to communicate with non-programmers and understand how non-programmers can improve the work you do
+","4,5,6","1,6","Human computer interaction, mostly design and research methodology",2,1,"HCI, Accessibility, CS Education","7,8,9,10,11",,1,1,"K-Abstraction,K-Asks for help,K-Lifelong learning,K-Fundamentals of programming,K-Designing algorithms,K-Single language,K-Comprehending programs,K-Developing good program design,K-Teamwork and collaboration,K-How computers work,K-Testing and debugging,K-Program management,K-Receives feedback well,K-Communication,K-Code reviews,K-Object oriented programming,K-Control structures and logic,Snew-Persistence"
+4/13/2022 12:36,4/13/2022 12:55,0,198.62.98.38,100,1129,1,4/13/2022 12:55,R_8CCPCBrtL4vwn1T,Barge,Bill,bargeb@trine.edu,,41.6524,-85.0143,email,EN,"New hires for programming positions should have strong communication skills, logical and design skills, and experience with a programming language, but not necessarily the language(s) that the faculty member will teach.  As long as the person has experience programming in a language, that person will be able to learn another language.
+
+A person who can break a problem down into component parts to determine what needs to completed will be able to design a solution to the problem.","The best trait of a good programmer is detailed logical thinking.  I think the best prerequisite is Home Economics.  If someone can plan a meal and follow the recipes to create the appetizer, main dish, and dessert, that person will be able to plan and execute a technology solution.
+
+In introductory programming courses, I spend time on detailed design.  Students have to write detailed instructions to make a peanut butter and jelly sandwich or write detailed instructions for a classmate to follow to walk across the room and draw a square on the board.  
+
+In the introductory courses, the assignments start simple but quickly gain complexity by combining all of the topics previously covered and forcing the student to build a toolbox of skills that they can apply to the new problem.  
+
+Designing systems is not a spectator sport so students code in-class single-topic solutions as well as the more complex weekly homework assignments.
+
+","5,7","1,2",,5,2,,"2,7,8,10,11",,1,5,"K-Communication,K-Developing good program design,K-Single language,K-Abstraction,K-Problem solving,K-Detailed logical thinking,K-Writing programs"
+4/23/2022 21:33,4/23/2022 21:36,0,74.84.159.249,100,181,1,4/23/2022 21:36,R_2dzRJ6dWenmGzqL,Hajjar,Salam,salam.hajjar@mail.wvu.edu,,38.412,-82.3698,email,EN,Critical thinking ,"Details oriented. 
+Problem solving.
+Organization ",1,"1,3,4",,3,2,,1,,2,,"K-Problem solving,K-Attention to detail,Knew-Critical thinking"
+4/25/2022 13:30,4/25/2022 13:35,0,150.131.136.223,100,289,1,4/25/2022 13:35,R_3J9684l3OSIXj9S,Hill,Bryce,Bhill@mtech.edu,,45.2319,-112.6427,email,EN,"Ability to read and debug code written by someone else.
+General understanding of fundamentals of all coding languages.
+Skill to use a debugger and compiler
+Be skilled in one specific language but be prepared to learn others.
+","Code debugging using an IDE is very useful.
+Project oriented homework or assignments.
+Projects that involve an end user, not just a homework assignment.",1,3,,4,1,Electronic and Embedded applications for research.,"1,10",Matlab,2,,"K-Comprehending programs,K-Testing and debugging,K-Tools,K-Fundamentals of programming,K-Lifelong learning,K-IDE,K-Writing programs,K-Single language"
+4/24/2022 20:51,4/25/2022 14:57,0,96.231.122.10,100,65182,1,4/25/2022 14:57,R_3mk0GQciKbXxR9v,Jacobs,Matthew,jacobsmj@cua.edu,,38.9635,-76.9672,email,EN,"Knowledge: Basics of Software Engineering and/or development cycle. Basic algorithms, data structure, and efficiency estimation. Depending on field, General education in Sciences and Ethics.  
+
+Skills: Excellent programming skills in at least one programming language, and passable skills in a second. Oral and written communication skills. 
+
+Characteristics: open to learning new things and expanding one's expertise. Team player. ","Computer experience, problem solving and critical thinking experience.  ","2,5,7","1,2,5",,2,1,"Image processing, Machine Learning","3,7,10",MATLAB,2,,"K-Life cycle,K-Data structures,K-Evaluating time/space complexity,K-Ethics,K-Mutiple languages,K-Communication,K-Lifelong learning,K-Teamwork and collaboration,K-How computers work,K-Problem solving,Knew-Critical thinking,K-Designing algorithms,K-Fundamentals of programming,K-Single language"
+4/26/2022 10:30,4/26/2022 10:40,0,206.207.155.2,100,570,1,4/26/2022 10:40,R_ZfoTwm9yImyTQFr,France,Steve,FRANCES@erau.edu,,34.5926,-112.4238,email,EN,"Depends on what is meant by 'programming'.  If it is not a true engineering position, then some experience with the technology stack used by the company may be sufficient.  If the new hire is expected to develop software for a safety-critical system in the context of a large software team, then the expectations are much higher:  reasonably mastery of CS fundamentals (e.g. languages, file & data structures, operating systems, networking, software engineering practices, design principles, etc.).","Hands on coding practice
+Peer review of code
+Unit testing and debugging
+Integration testing
+Participating in reviews of others code
+Bug fixing
+Progressively more difficult assignments
+Mentoring
+Pair programming
+","5,7","1,6","Software Engineering practices, Senior Design Capstone course (assist)",1,2,,1,,1,5,"K-Fundamentals of programming,K-File handling and I/O,K-Operating systems,K-Data structures,K-Developing good program design,K-Writing programs,K-Teamwork and collaboration,K-Code reviews,K-Testing and debugging,K-Networking and communication"
+4/28/2022 9:52,4/28/2022 10:20,0,130.18.104.159,100,1668,1,4/28/2022 10:20,R_1msYFNMXbF5cUyM,Crowson,Josh,crowson@cse.msstate.edu,,33.4474,-88.8205,email,EN,"1) Problem solving! One of the big things that I stress in my classes, is that fluency in a programming language makes writing code easier, but it does not matter how well you know a programming language if you cannot break a large problem down into manageable, bit size chunks.
+2) For a computer programmer transitioning into the workforce, being able to work as a member of a team is critical.
+3) Self-confidence is really important. Imposter-syndrome is an issue in the computer science field. I know that I struggled with it when I was in college and still do. It is harder to be a good teammate when you feel like you don't belong there.
+4) The ability to take criticism. In order to improve the quality of your code, you need to have others review your code and give you feedback. Sometimes this feedback can be hard to take for some people.
+5) One of the main reasons that I love programming, is that I enjoy solving puzzles (Suduko, chess...). I enjoy being challenged and the adrenaline rush of accomplishing my task. I believe that this is an important characteristic of a programmer. 
+6) I believe that pattern recognition plays a vital role in whether students become successful programmers are not. Students with solid pattern recognition are more likely to develop stronger problems solving skills, but also pattern recognition impacts how fast a student gains proficiency with a programming language. I believe that problem solving is more important that fluency in a programming language, but being fluent in a language makes expressing your ideas through code less frustrating and more efficient. ","1) Problem solving, doing things that make me think and that challenge me.
+2) Writing code. The more often that I write code the opportunities that I have to learn something new about a language. The more often that I write code, the more opportunities that I have to make connections between similar kind of problems. Solving a new problem is much easier when I think about the problem and realize that it is similar to a problem that I worked previously.
+3) Learning more features of the programming language and software tools that I use. I always get excited when I realize that there is a function built into a programming language that replaces a multiline algorithm that I normally use to accomplish some task.",5,"1,2",,3,2,,"3,10",,2,,"K-Problem solving,K-Abstraction,_Teamwork and collaboration,K-Receives feedback well,K-Pattern recognition,K-Developing good program design,K-Writing programs,K-Lifelong learning"
+4/28/2022 16:18,4/28/2022 16:31,0,152.228.80.114,100,778,1,4/28/2022 16:31,R_3oYj1ieX6ibjMdH,Maguire,Daniel,daniel.maguire@valpo.edu,,41.4549,-87.0613,email,EN,"Aside from some specific syntax or algorithm, I believe that the new hires should possess abilities of:
+
+Project/program planning - The ability to decompose a task or program into its independent modular sub-elements.  Unless a big task/program can be mapped to smaller manageable actions, the result is a solution as amorphous as the problem.
+
+Pseudocode - A new programmer should be able to take any given process and provide - in natural language - an approach to programming it.  Debugging should be in the pseudocode domain.
+  
+Commenting/Documenting - A programmer should be an adherent to strict standards of commenting and documentation.  A code file should be understandable to others viewing without effort.
+
+Toolchain comfort - A programmer should be able to create a smooth compilation process that allows them to focus on applying their skill as opposed to dealing with logistics.","Programming exercises that include evaluation of planning, evaluation of commenting/documentation, using the code of others, and  using revision control.",1,"1,2",,2,2,,"1,3",MATLAB,1,5,"K-Designing algorithms,K-Project management,K-Problem solving,K-Abstraction,K-Pseudocode,K-Testing and debugging,K-Developing good program design,K-Tools,K-IDE,K-Version control,K-Writing programs,K-Single language,K-Generating clear documentation"
+4/28/2022 17:06,4/28/2022 17:11,0,68.36.105.196,100,282,1,4/28/2022 17:11,R_1dKpTXec9rrV9uA,Nahum,Josh,nahum@msu.edu,,42.7069,-84.4138,email,EN,"The ability to read, write, and communicate about software. The ability to work collaboratively with others. The ability to learn new skills and apply them to new settings.","A willingness to learn new languages, frameworks, tools. Strong communication skills, so that they can convey ideas in written and verbal forms. The ability to take criticism well and learn from feedback given by peers and more experienced colleagues.","5,7","1,2,5,6",I teach about alternative programming paradigms (functional programming). Also teach about compiler design and database systems.,3,2,,"3,10,11",,2,,"K-Writing programs,S-Communication,K-Program comprehension,S-Teamwork and collaboration,S-Lifelong learning,S-Receives feedback well"
+4/28/2022 17:12,4/28/2022 17:16,0,172.58.238.242,100,260,1,4/28/2022 17:16,R_esQCV8QEAbQz1YJ,Fischman,Felix,ffischma@nyit.edu,,40.7238,-74.2293,email,EN,They should understand hie oop philosophy functions and applied to any oop language,Have a strong introduction to oop courses and internships during tje college years,"1,5","1,2,4,6","Discrete structures, database management ",5,1,I do research in OBJECT ORIENTED BIOLOGY AND OBJECT ORIENTED CALCULUS,"1,3,7,9,10,11,13",None,1,5,K-Object oriented programming
+5/2/2022 14:26,5/2/2022 14:34,0,128.59.21.2,100,499,1,5/2/2022 14:34,R_2vdL7rbQxc8ucfp,Blaer,Paul,pblaer@cs.columbia.edu,,40.7099,-73.9591,email,EN,"Good general problem solving skills and experience with algorithms and their costs (nothing worse that horribly inefficient code that they don't even realize is inefficient).
+
+Experience with version controlling/git.
+
+Experience with several different development environments.
+
+Experience with regression testing.","Group work.
+
+Struggling on a problem late into the night.
+
+Building code to spec (so it correctly interfaces with other libraries/class files that the student didn't themselves write).
+
+Strictly enforced deadlines.","2,4,5","1,2",,5,1,CS Education techniques for dealing with intro classes where you have students with a mix of backgrounds.  I'm also a roboticist and have some background in cybersecurity.,"1,7",,2,,"K-Problem solving,K-Evaluating time/space complexity,K-Version control,K-IDE,Knew-Regression testing,K-Teamwork and collaboration,Snew-Meets deadlines,Knew-Coding to API,Snew-Persistence,K-Designing algorithms"
+5/1/2022 13:21,5/3/2022 0:01,0,73.58.6.142,100,124807,1,5/3/2022 0:01,R_2YJuESinsYW45aX,May,Maclane,may@cs.ua.edu,,33.1893,-87.4785,email,EN,"How to navigate the Terminal and run commands
+The basics of an object oriented programming language (sequence, selection, iteration, arrays, functions, classes)
+Awareness of the functional programming paradigm (and the existance of other paradigms)
+Memory management (explicit memory management and automatic memory management/garbage collection)
+Deep/Shallow Copies vs reference/pointer variables
+Sorting and searching (linear vs binary search and the running time to sort data)
+Basic understanding of Big O notation and determining a code snippets running time
+Be aware of common data structures and their operations, operation running times, and use cases (such as stacks, queues, linkedlists, dynamic arrays, dictionaries, priority queues/heaps, etc; a queue is FIFO, stack is LIFO; stack & queue operations are O(1)/constant time).
+A source control tool (such as git or hg)
+Exposure to different problem solving methods (iteration vs recursion, dynamic programming, memoization)
+Basic understanding of a relational and nonrelational database and language
+How to make web requests to a server in a language
+How to communicate with a database from an application
+Awareness of processes, threads, and safe communication between them (locks, mutexes, semaphores, deadlocks, shared memory, message passing)
+How to think like an attacker to write more secure software
+How to design a database
+How to design large programs/projects
+How to gather requirements from a client
+How to trace through and debug code
+How to break/test code (create boundary test cases and unit test)
+How to read documentation of languages,  libraries, and tools
+How to write documentation/comments
+How to pick the right tool for the job (review the pros and cons of a language, database, or tool and make a decision)
+How to research and self-teach new languages, tools, and concepts
+How to Google
+How to inherit and extend someone else's code
+Understand the basics of computer networking and network infrastructure
+Be teachable
+Be able to break down a problem to its fundamental steps yet also abstract away details with multiple levels of abstractions
+","Refactoring code to improve performance, make it more readable, and better organized
+The debug process: discovering some crazy bug that seemingly randomly occurs and spending hours tracking down the root cause.
+Inheriting and extending someone elses code.
+Writing pseudocode
+Writing test cases and unit tests
+Designing and then implementing the architecture/organization of a large project
+Designing and then implementing a database
+Tracing code on paper
+Solving problems with a programming language (essentially programming experience itself)
+Self-teaching a new language or tool
+Working on a team of developers
+Meeting with a client to gather and establish requirements and demo
+Designing a user interface
+Being lost (on a project, understanding a library, etc) and asking for help
+Being lost and grinding until the light bulb goes off","1,5,7",1,,2,2,,"1,2,3,8,11",TypeScript,1,2,"K-Tools,K-Control structures and logic,K-Fundamentals of programming,K-Memory allocation,K-Pointers,K-Searching algorithms,K-Evaluating time/space complexity,K-Problem solving,K-Data structures,Knew-Databases,K-Command prompt for compilation and execution,K-Web development,K-Multi-threading and concurrency,K-Security,K-Testing and debugging,Knew-Unit test,K-Tracing execution of program,S-Lifelong learning,K-Networking and communication,K-Abstraction,K-Teachable,K-Refactoring code,K-Inheriting and extending others' code,K-Pseudocode,K-Unit test,K-Writing programs,S-Teamwork and collaboration,S-Asks for help,S-Gathering client requirements,K-Designing a user interface,Snew-Persistence,K-Arrays dictionaries lists vectors,K-Variables assignments,K-Object oriented programming,K-Version control"
+5/4/2022 4:52,5/4/2022 5:01,0,97.88.9.11,100,495,1,5/4/2022 5:01,R_1hMQXVzejhTyomA,Petzold,Mark,mcpetzold@stcloudstate.edu,,45.5722,-94.2042,gl,EN,Ability to learn new languages.  Ability to decompose problems into smaller pieces.  Ability to document their code.  Ability to meet coding standards of the company.  Ability to work on teams,"Good programmers need to have experience working in teams and working well with other people.  They also need to be able to develop larger projects, and be able to break down large problems into smaller parts.  Good programmers need experience working with non-programmers.  They need to learn to communicate, both verbally and written.",5,"1,4,6","Ethics, Computer Networks",5,2,,10,,1,4,"K-Abstraction,K-Problem solving,K-Developing good program design,S-Teamwork and collaboration,S-Communication,K-Lifelong learning,K-Generating clear documentation"
+5/4/2022 6:43,5/4/2022 6:51,0,153.91.155.154,100,486,1,5/4/2022 6:51,R_10NszYOTNkvMqAh,Copus,Belinda,copus@ucmo.edu,,38.7669,-93.7291,gl,EN,"Problem solving skills, ability to think abstractly, proficiency in programming in one or more high level languages.
+
+Ability to self-learn and desire to continue learning. 
+
+Ability to communicate ideas and constructively comment on their own or others work. Ability to work with others.
+","Internship experiences are very helpful and highly recommended.
+
+Projects, both team and individual, where skills are stretched and new learning might need to undertaken to solve a medium to large sized real-world/realistic problem.
+","2,4,5,7","1,2",,3,1,"Pedagogy and curriculum to support and utilize Neopiagetian, cognitive apprenticeship, and constructivist learning theories.","2,7,10,11",,1,3,"K-Problem solving,K-Single language,S-Communication,S-Teamwork and collaboration,Knew-Internship,K-Writing programs,K-Lifelong learning"
+5/4/2022 7:21,5/4/2022 7:24,0,68.226.254.53,100,148,1,5/4/2022 7:24,R_2D5P71GocBZ0AAC,Arasteh,Davoud,davoud_arasteh@subr.edu,,30.3608,-91.0917,gl,EN,,,5,1,,5,2,,3,,2,,
+5/4/2022 8:58,5/4/2022 9:04,0,24.183.167.100,100,358,1,5/4/2022 9:04,R_XAR4PEPJhNcSRB7,Cannon,Adam,cannon@cs.columbia.edu,,44.6913,-73.4648,gl,EN,"This really depends on the position. I feel the question is very open ended. Certainly they should have basic problem solving skills and should be comfortable implementing solutions in at least one programming language. They should have a basic understanding of undergraduate level data structures and algorithms. Preferably they should be familiar with at least two different programming paradigms (imperative, declarative, OOP).",Programming is what makes someone a good programmer. ,"4,5","1,5",,5,1,CS education research in particular broadening participation and teaching computing to non CS students.,"7,10",,1,2,"S-Problem solving,S-Single language,K-Data structures,K-Designing algorithms,Knew-Mutiple languages,K-Imperative programming,K-Object oriented programming,K-Writing programs"
+5/4/2022 11:32,5/4/2022 12:03,0,47.26.42.152,100,1832,1,5/4/2022 12:03,R_24MN4ujGSr5h6Kw,Foster,David (Dave),dfoster@kettering.edu,,42.8193,-83.2845,gl,EN,"New hires need a strong understanding of validating code. They need to be able to design test cases and scenarios that adequately determine that the code works as required on all data sets instead of confirming code with small, simple cases.
+
+New hires need an understanding of software versioning to support a program through its life cycle, development, testing, and maintenance, whereas most software assignments in school normally only cover the first two, and testing is often weekly covered.
+
+New hires also need to be able to convery a set of requirements into a model of an algorithm that is independent of code, so that the validity and correctness of the algorithm can be verified separately.
+
+New hires also need an understanding of both asymtotic running times/memory usage and realistic running times/memory usage to evaluate which algorithms are most appropriate for an application and what hardware resources are needed.
+
+It would help if the are strong in a language related to the position, but compared to the skills listed above, learning a new language seems to be the easiet new skill to acquire.
+
+
+","There is nothing more useful than writing program after program under the tutelage of master of that language who can provide feedback and methods of improvement. Writing programs in isolation can too easily lead to bad habits, poor practices, and inefficient methods that may get the job done, but not in a reliable, maintainable way.
+
+Ideally a good programmer would have spent significant time practicing with several diverse languages (an assembly language, opject oriented language, parallel programming language, etc.) to learn the strengths and weaknesses of different languages. Programming languages are like any other tool: they are often designed with a specific purpose in mind, and they may perform well in that solution space and poorly in others.
+
+For some concrete experiences, a programmer should write applications that are validated and tested by others and have to respond to feedback and bug reports. A programmer should also work in a team in which they are responsible for only a portion of the application. 
+
+One of the more valuable lesson sI had was being handed a very large set of applications that were written over 20 years ago (in Fortran 77) by people that no longer worked at the company and then being told to make specific updates to it. Although determining what the code did and how to change it was part of the process, seeing how well (or poorly) comments, documentation, clarity of coding style, even choice of variable names impacted the experience I had maintaining it years later made me focus on my own practices.","1,5","1,3,4",,5,2,,1,"assembly (Star12, ARM), MATLAB, VHDL, Verilog",1,3,"K-Testing and debugging,K-Designing algorithms,Knew-Life Cycle,K-Version control,Knew-Specific language,K-Writing programs,S-Teamwork and collaboration,K-Developing good program design,K-Evaluating time/space complexity  ,K-Generating clear documentation"
+5/19/2022 14:15,5/19/2022 14:39,0,24.118.23.243,100,1466,1,5/19/2022 14:39,R_29r0AI97tGadaM1,Kauffman,Chris,kauffman@umn.edu,,45.0139,-93.1545,gl,EN,"'- Basic debugging skills, at a minimum how to analyze a stack trace to determine the location at which a problem manifested, augment code before it with ""print"" statements to see what's going on, and ideally knowledge of how to use a debugger to step through a program starting from a breakpoint
+
+- Some experience decomposing a problem new problem into program structures; the ability to design a solution of a domain problem based on functions or classes/objects or some other paradigm should be gained through preceding experience.
+
+- Basic knowledge of the common data structures and algorithms used to organize and retrieve information along with their tradeoffs; knowledge of arrays, linked lists, search trees, and basic graphs are essential; somewhat more complex data structures such as binary heaps and B-trees is a plus
+
+- Knowledge of several programming languages and the paradigms they represent. Ideally this would include at least one object-oriented language (Java or Python being among the most common), a functional language (Scheme/Lisp or ML/OCaml), a 'low-level' language (mostly C plus possibly some assembly). Exposure to type systems that are more and less strictly enforced is great.
+
+- A good understanding of file handling at the byte-level; knowledge that files are just a stream of bytes and there are functions at a low level to handle them as such.
+
+- Some knowledge of software tools for collaboration such as Git, command line tools such as SSH and how to navigate in a Unix terminal","Working on a piece of software that is ""large"" according to several criteria. 
+- Bigger than a single source file, ideally a dozen or more to teach one how to navigate effectively
+- Big enough that it takes at least several weeks to complete to teach how one can easily forget context and that coding context into a program helps ease this burden
+- Big enough to require some design so that common components / task can be identified and re-used
+- Big enough that ""other people's code"" must be used, perhaps a group of collaborators or at least some libraries or instructor code
+- Big enough that it requires some debugging effort when things go wrong, that tracking down the location sequencing of a problem is nontrivial to teach the wisdom of logging, assertions, and documentation
+
+It is great if folks can get experience with concurrent code (multiple threads or server/client programming) as this is an additional level of complexity that teaches much.","1,5","4,5",,4,2,,"1,7",,2,,"K-Problem solving,K-Writing programs,K-Data structures,K-Mutiple languages,K-Assembly language,K-File handling and I/O,K-Tools,S-Teamwork and collaboration,K-Writing large program,K-Refactoring code,K-Multi-threading and concurrency,K-Arrays dictionaries lists vectors,Knew-Advanced data structures,K-Command prompt for compilation and execution,K-Designing algorithms,K-Version control,K-Generating clear documentation,K-Testing and debugging"
+5/18/2022 21:26,5/22/2022 21:16,0,207.244.201.111,100,344991,1,5/22/2022 21:16,R_3pbfXiAtNQ61hvf,Knight,Aubrey,knight@cse.msstate.edu,,33.5431,-89.1306,gl,EN,"Programmers, new or otherwise, should possess the following:
+1. A familiarity with several programming languages; such a familiarity should afford the programmer the ability to learn new languages rapidly. Too much focus on a single language creates biases that can lead to programmers struggling if the task at hand isn't in the preferred language. 
+2. Well-developed problem-solving skills; at its core, programming is the means by which programmers use computers to solve problems. Many programmers will be confronted with situations where they will be the one to develop the solution for a given problem. 
+3. Communications skills; at a minimum, a programmer has to communicate with his colleagues and his immediate supervisor, being able to convey information about concerns, problems and progress to others will be part of their daily routine.
+4. Resources such as algorithm bibles, programming manuals, etc. Simply, the field is vast, so it is better to possess resources to use as a reference than to attempt to commit it to memory. ","The most important experiences necessary for developing a good programmer are:
+1. Design and implement lots of programs, the more programs a programmer writes, the better at programming they can become. Programming isn't automatic, it is very much like writing a learned skill. Every programmer has started by writing small programs and gradually transitioned to larger, more ambitious projects.
+2. Mentorship, programmers need the guidance of mentors. Proper mentorship helps a programmer identify bad habits and learn appropriate fixes; mentors also share critiques of work and can provide guidance about valuable resources. 
+3. Encountering and overcoming failure; programs fail, having to debug those failures and fix them helps programmers to identify dangerous behaviours.",5,2,,5,2,,"1,3",,1,2,"K-Mutiple languages,S-Lifelong learning,K-Problem solving,S-Communication,K-Tools,K-Writing programs,S-Receives feedback well,Snew-Persistence"
+5/23/2022 6:39,5/23/2022 6:42,0,104.62.174.33,100,132,1,5/23/2022 6:42,R_6QAi0Y1l7nenN97,Thomas,Sanethia,sanethiat@ufl.edu,,29.6138,-82.386,gl,EN,,working on projects and learning new languages,7,6,Software Engineering,2,2,,8,,1,4,"K-Mutiple languages,S-Teamwork and collaboration"

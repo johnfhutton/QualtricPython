@@ -11,7 +11,7 @@ dfT=df.transpose()
 [rows,cols] = dfT.shape  # Cols are now series with one respondents info.
 
 question=["Q2_1","Q2_2","Q2_3","Q2_4","Q2_5","Q2_6","Q2_7","Q2_8","Q2_9","Q2_10","Q2_11","Q2_12","Q2_13","Q2_14","Q2_15","Q2_16","Q2_17","Q2_18","Q2_19","Q2_20","Q2_21","Q2_22","Q2_23","Q2_24","Q2_25","Q2_26","Q2_27","Q2_28","Q2_29","Q2_30","Q2_31","Q2_32","Q2_33","Q2_34","Q2_35","Q2_36","Q2_37"]
-qsfNumber=[93,101,41,92,102,99,111,104,120,95,126,118,110,115,124,121,117,103,123,108,98,109,122,105,119,94,96,114,97,91,113,106,107,125,112,116,100]
+qsfNumber=[93,   101,   41,    92,    102,   99,    111,   104,   120,    95,     126,    118,    110,    115,    124,    121,    117,    103,    123,    108,    98,     109,    122,    105,    119,    94,     96,     114,    97,     91,     113,    106,    107,    125,    112,    116,    100]
 
 with open('IndP3-Ranking-Default.qsf') as myfile:
     qfile = myfile.read()
@@ -35,11 +35,27 @@ for response in dfT:
         #   - this requires real "{" to be escaped with another "{".  Totally not-expected.
         #   - in the sub, if I did "\1\2{fstring}\3" it always failed, but adding one char
         #     before fstring seems to work.  :-(
-        responseFile = re.sub( \
-            fr'("DefaultChoices":{{)(.*?"{qsfNumber[j]}":{{)"\d{{1}}(":.*?}}}}}})', \
-            fr'\1\2"{dfT[response][question[j]]}\3', \
-            responseFile)
+        #   - In the match, the last entry will have three "}" instead of two.  Wierd with the "}} stuff to escape."
+        if (dfT[response][question[j]] == ""):
+            # If the response is blank, remove the "default" for this question.
+            # One entry example:  "91":{"5":{"Selected":true}},
+            # TBD figure out how to deal with last element (comma problem...) or first (no comman problem).  Final cleanup?
+            responseFile = re.sub( \
+                fr'("DefaultChoices":{{.*?)"{qsfNumber[j]}":{{"\d{{1}}":{{"Selected":true}}}},?(.*?}}{{1,3}},)', \
+                fr'\1\2', \
+                responseFile)
+        else:
+            # With a real response, change the default to the actual number from the Phase 2 data
+            responseFile = re.sub( \
+                fr'("DefaultChoices":{{)(.*?"{qsfNumber[j]}":{{)"\d{{1}}(":.*?}}}})', \
+                fr'\1\2"{dfT[response][question[j]]}\3', \
+                responseFile)
 
+    # Cleanup to deal with extra comma if last element is removed.
+    responseFile = re.sub( \
+                r'("DefaultChoices":{.*?}}),(},"DataExportTag":"Q2",)', \
+                fr'\1\2', \
+                responseFile)
     # Output this as a new qsf file
     surveyName = "IndP3-Ranking" + str(dfT[response]["RecipientEmail"])
     fileName = f"{surveyName}.qsf"

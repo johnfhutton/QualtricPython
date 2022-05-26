@@ -1,0 +1,92 @@
+-- Ranked List --
+K-Writing programs                                18
+K-Problem solving                                 15
+K-Testing and debugging                           13
+K-Designing algorithms                            12
+K-Single language                                 10
+K-Developing good program design                  10
+K-Data structures                                  9
+K-Version control                                  9
+K-Fundamentals of programming                      8
+K-Abstraction                                      8
+S-Teamwork and collaboration                       8
+K-Generating clear documentation                   7
+K-Teamwork and collaboration                       7
+K-Lifelong learning                                7
+K-Tools                                            7
+K-Mutiple languages                                6
+S-Communication                                    5
+K-Comprehending programs                           5
+K-Networking and communication                     4
+S-Lifelong learning                                4
+K-Object oriented programming                      4
+Snew-Persistence                                   4
+K-Communication                                    4
+K-Evaluating time/space complexity                 3
+K-IDE                                              3
+K-How computers work                               3
+K-File handling and I/O                            3
+K-Operating systems                                3
+K-Control structures and logic                     3
+K-Internships                                      3
+Knew-Developing-and coding to-specifications       3
+K-Code reviews                                     3
+K-Refactoring code                                 3
+K-Web development                                  3
+K-Pseudocode                                       3
+S-Receives feedback well                           3
+K-Ethics                                           2
+K-Memory allocation                                2
+K-Unit test                                        2
+K-Multi-threading and concurrency                  2
+K-Command prompt for compilation and execution     2
+Knew-Critical thinking                             2
+K-Receives feedback well                           2
+K-Arrays dictionaries lists vectors                2
+Knew-Unit test                                     1
+K-Tracing execution of program                     1
+K-Security                                         1
+K-Teachable                                        1
+S-Gathering client requirements                    1
+K-Inheriting and extending others' code            1
+S-Asks for help                                    1
+Knew-Internship                                    1
+K-Designing a user interface                       1
+K-Variables assignments                            1
+K-Searching algorithms                             1
+S-Problem solving                                  1
+S-Single language                                  1
+Knew-Mutiple languages                             1
+K-Imperative programming                           1
+Knew-Life Cycle                                    1
+Knew-Specific language                             1
+K-Evaluating time/space complexity                 1
+K-Assembly language                                1
+K-Writing large program                            1
+Knew-Databases                                     1
+K-Project management                               1
+K-Pointers                                         1
+K-Program management                               1
+K-Accountability                                   1
+S-Skill in stay motivated                          1
+K-Scripting language                               1
+K-UML                                              1
+Knew-Assembly language                             1
+K-Sorting algorithms                               1
+K-Evaluating time/space complexity                 1
+K-Databases                                        1
+K-Repetition and loops                             1
+K-Asks for help                                    1
+K-Coding to API                                    1
+Knew-Coding to API                                 1
+S-Attention to detail                              1
+K-Detailed logical thinking                        1
+K-Attention to detail                              1
+K-Life cycle                                       1
+_Teamwork and collaboration                        1
+K-Pattern recognition                              1
+K-Scope of code                                    1
+K-Program comprehension                            1
+Knew-Regression testing                            1
+Snew-Meets deadlines                               1
+Knew-Advanced data structures                      1

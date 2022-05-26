@@ -9,7 +9,8 @@ import matplotlib.pyplot as plt
 # - No additional options
 # Remember to update the next line to the downloaded file name in local directory
 
-df=pd.read_csv('IndP1-Programming_Skills_Ranking_April-25_2022_19.27.csv')
+#df=pd.read_csv('IndP1-Programming_Skills_Ranking_April-25_2022_19.27.csv')
+df=pd.read_csv('AcaP1-Programming_Skills_Ranking_May-24_2022_21.23.csv')
 # df.head()
 # df.shape
 
@@ -19,8 +20,8 @@ q1df = df['Q1-Parsing'].str.split(',',expand=True)
 
 q1ranked = q1df.stack().value_counts()
 
-file1 = open('results-ranked.txt', 'w')
-file2 = open('results-alpha.txt',"w")
+file1 = open('results-rankedAca.txt', 'w')
+file2 = open('results-alphaAca.txt',"w")
 with pd.option_context('display.max_rows',None,'display.max_columns',None):
     print("-- Ranked List --")
     print( q1ranked.where(q1ranked>0).dropna() )

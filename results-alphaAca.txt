@@ -1,0 +1,92 @@
+-- Sorted by label --
+K-Abstraction                                      8
+K-Accountability                                   1
+K-Arrays dictionaries lists vectors                2
+K-Asks for help                                    1
+K-Assembly language                                1
+K-Attention to detail                              1
+K-Code reviews                                     3
+K-Coding to API                                    1
+K-Command prompt for compilation and execution     2
+K-Communication                                    4
+K-Comprehending programs                           5
+K-Control structures and logic                     3
+K-Data structures                                  9
+K-Databases                                        1
+K-Designing a user interface                       1
+K-Designing algorithms                            12
+K-Detailed logical thinking                        1
+K-Developing good program design                  10
+K-Ethics                                           2
+K-Evaluating time/space complexity                 3
+K-Evaluating time/space complexity                 1
+K-Evaluating time/space complexity                 1
+K-File handling and I/O                            3
+K-Fundamentals of programming                      8
+K-Generating clear documentation                   7
+K-How computers work                               3
+K-IDE                                              3
+K-Imperative programming                           1
+K-Inheriting and extending others' code            1
+K-Internships                                      3
+K-Life cycle                                       1
+K-Lifelong learning                                7
+K-Memory allocation                                2
+K-Multi-threading and concurrency                  2
+K-Mutiple languages                                6
+K-Networking and communication                     4
+K-Object oriented programming                      4
+K-Operating systems                                3
+K-Pattern recognition                              1
+K-Pointers                                         1
+K-Problem solving                                 15
+K-Program comprehension                            1
+K-Program management                               1
+K-Project management                               1
+K-Pseudocode                                       3
+K-Receives feedback well                           2
+K-Refactoring code                                 3
+K-Repetition and loops                             1
+K-Scope of code                                    1
+K-Scripting language                               1
+K-Searching algorithms                             1
+K-Security                                         1
+K-Single language                                 10
+K-Sorting algorithms                               1
+K-Teachable                                        1
+K-Teamwork and collaboration                       7
+K-Testing and debugging                           13
+K-Tools                                            7
+K-Tracing execution of program                     1
+K-UML                                              1
+K-Unit test                                        2
+K-Variables assignments                            1
+K-Version control                                  9
+K-Web development                                  3
+K-Writing large program                            1
+K-Writing programs                                18
+Knew-Advanced data structures                      1
+Knew-Assembly language                             1
+Knew-Coding to API                                 1
+Knew-Critical thinking                             2
+Knew-Databases                                     1
+Knew-Developing-and coding to-specifications       3
+Knew-Internship                                    1
+Knew-Life Cycle                                    1
+Knew-Mutiple languages                             1
+Knew-Regression testing                            1
+Knew-Specific language                             1
+Knew-Unit test                                     1
+S-Asks for help                                    1
+S-Attention to detail                              1
+S-Communication                                    5
+S-Gathering client requirements                    1
+S-Lifelong learning                                4
+S-Problem solving                                  1
+S-Receives feedback well                           3
+S-Single language                                  1
+S-Skill in stay motivated                          1
+S-Teamwork and collaboration                       8
+Snew-Meets deadlines                               1
+Snew-Persistence                                   4
+_Teamwork and collaboration                        1
